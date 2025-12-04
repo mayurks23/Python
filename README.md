@@ -1,2 +1,2 @@
 # Python
-Solve python problems
+Solved python problems
